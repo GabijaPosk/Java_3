@@ -1,0 +1,51 @@
+[
+  {
+    "type": "Gyvenamoji",
+    "location": "Vilnius",
+    "price": "150 000 €",
+    "size": "85 m²",
+    "imageUrl": "https://lightpro.lt/wp-content/uploads/2024/01/Atostogu-namai-Base-Camp-Harmaroy.jpg"
+  },
+  {
+    "type": "Komercinė",
+    "location": "Kaunas",
+    "price": "300 000 €",
+    "size": "200 m²",
+    "imageUrl": "https://www.realtrust.lt/uploads/images/catalog_src/komercines-patalpos-gedimino-pr-47-2_src_11.jpg"
+  },
+  {
+    "type": "Sklypas",
+    "location": "Klaipėda",
+    "price": "100 000 €",
+    "size": "600 a",
+    "imageUrl": "https://foto4.asimu.lt/images_mod/nta/73150/09aaa10be4c26098f9a306e831d3dbc0.jpg"
+  },
+  {
+    "type": "Gyvenamoji",
+    "location": "Šiauliai",
+    "price": "120 000 €",
+    "size": "90 m²",
+    "imageUrl": "https://static.domoplius.lt/domoplius/images/anns/domoplius/2/78929/11/parduodamos-prekybos-ir-paslaugu-gyvenamosios-patalpo_2577610_big.jpg"
+  },
+  {
+    "type": "Komercinė",
+    "location": "Panevėžys",
+    "price": "350 000 €",
+    "size": "250 m²",
+    "imageUrl": "https://www.skardufabrikas.lt/wp-content/uploads/2019/11/IMG_0294.jpg"
+  },
+  {
+    "type": "Sklypas",
+    "location": "Marijampolė",
+    "price": "80 000 €",
+    "size": "500 a",
+    "imageUrl": "https://agenturadede.lt/wp-content/uploads/2023/11/1.jpg"
+  },
+  {
+    "type": "Sklypas",
+    "location": "Kaunas",
+    "price": "110 000 €",
+    "size": "800 a",
+    "imageUrl": "https://static.domoplius.lt/domoplius/images/anns/domoplius/5/75034/27/parduodamas-sklypas-vilniaus-rajono-sav-nemencine-ii-vilniaus-_415743_big.jpg"
+  }
+]

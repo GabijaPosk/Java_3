@@ -1,0 +1,33 @@
+.header-layout {
+    background-color: var(--header-background-color) !important;
+}
+
+.text-l {
+    color: var(--link-button-color);
+}
+
+.menu-link {
+    color: var(--link-button-color);
+    text-decoration: none;
+    padding: var(--lumo-space-s);
+    margin-right: var(--lumo-space-m);
+}
+
+.menu-link:hover {
+    text-decoration: underline;
+    color: var(--link-button-color2);
+}
+
+/* Ensuring the header navbar part takes the full width and the specified background color */
+[part="navbar"] {
+    width: 100%;
+    background-color: var(--header-background-color) !important;
+}
+
+:root {
+    --header-background-color: #800080; /* Violet */
+    --link-button-color: #ffa500; /* Orange */
+    --link-button-color2: #00ffff; /* Orange */
+    --main-text-color: #ffa500; /* Orange */
+    --main-background-color: #ffffff; /* White */
+}
